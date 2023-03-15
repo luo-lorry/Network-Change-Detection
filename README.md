@@ -1,4 +1,4 @@
-<img src="logo.png" alt="logo frechet" width="160"/>
+<img src="logo.png" alt="logo frechet" width="640"/>
 
 # network-change-detection
 Fréchet mean based method (quadratic approximation of the Laplacian entropy), re-implementation of the LAD (KDD' 20) method
