@@ -17,13 +17,16 @@ We also provide a re-implementation of the baseline LAD (KDD' 20) [2] method.
 ## References
 [1]
 ```
-@misc{luo2023frchet,
-    title={Fréchet Statistics Based Change Point Detection in Dynamic Social Networks},
-    author={Rui Luo and Vikram Krishnamurthy},
-    year={2023},
-    eprint={2303.10753},
-    archivePrefix={arXiv},
-    primaryClass={cs.SI}
+@ARTICLE{10198407,
+  author={Luo, Rui and Krishnamurthy, Vikram},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={Fréchet-Statistics-Based Change Point Detection in Dynamic Social Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Measurement;Social networking (online);Laplace equations;Symmetric matrices;Heuristic algorithms;Extraterrestrial measurements;Computational efficiency;Binary segmentation;change point detection;dynamic social network;Fréchet statistics;metric space},
+  doi={10.1109/TCSS.2023.3297233}
 }
 ```
 [2] 
